@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storytelling Plan"
+  short_description: "Plan talks, pitches, and decks before making slides."
+  default_prompt: "Use $storytelling-plan to clarify my audience, message, and storyboard before I build slides."
