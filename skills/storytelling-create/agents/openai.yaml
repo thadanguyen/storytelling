@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storytelling Create"
+  short_description: "Turn a planned story into a slide-ready deck."
+  default_prompt: "Use $storytelling-create to turn my storytelling plan into a slide-ready deck brief with takeaway titles, word design, graph and image choices, horizontal logic, delivery notes, quality checks, and appendix support."
